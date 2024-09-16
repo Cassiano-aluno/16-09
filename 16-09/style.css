@@ -1,0 +1,23 @@
+body {
+    font: normal 1em;
+}
+h1 {
+    font-size: 2em;
+    color: rgba(16, 95, 5, 0.692);
+}
+#titulo-principal {
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+}
+#titulo-principal:hover{
+    border-color: black;
+    background-color: white;
+    color: darkgreen;
+}
+.topico {
+    text-align: right;
+}
+.texto {
+    text-align: justify;
+}
